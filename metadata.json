@@ -1,7 +1,6 @@
 {
-  "name": "AlgoTerminator",
-  "website": "https://www.algoterminator.com",
-  "description": "Algo Trading",
-  "logo": "https://raw.githubusercontent.com/HoLyDreaM/mangata/main/logo.png",
-  "twitter": "https://twitter.com/Algoterminator"
+  "name": "SGM",
+  "description": "SGM Telegram Game",
+  "symbol": "SGM",
+  "image": "https://cdn.joincommunity.xyz/clicker/not_logo.png"
 }
